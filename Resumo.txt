@@ -1,0 +1,17 @@
+npm init -y - iniciar o projeto package.json
+adicioar essa lista  "type": "module", = para poder exportar e imporatr os modulos no js
+
+http = cliente e servidor = cliente sempre requer ele que iniciar 
+
+
+
+REST = Servidor não guarda dados se caso não interaja entre si
+
+JWT = Jason web token
+
+npm install nodemon@3.0.1 = biblioteca para rodar sempre o ervidor = excelente para codar
+
+usar o .gitingnore ignora todos os documentso que não é preciso ir no commit
+
+biblioteca muito fammosa
+npm install express@4.18.1 
